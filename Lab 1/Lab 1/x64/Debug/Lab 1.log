@@ -1,0 +1,3 @@
+﻿  Laboratory.cpp
+C:\Users\ztobi\source\repos\Lab 1\Lab 1\Laboratory.cpp(16,1): error C2144: syntax error: 'float' should be preceded by ';'
+C:\Users\ztobi\source\repos\Lab 1\Lab 1\Laboratory.cpp(20,9): warning C4305: '=': truncation from 'double' to 'float'
